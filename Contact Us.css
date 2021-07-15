@@ -1,0 +1,48 @@
+﻿body{
+	
+	background-image:url('spider-man-spider-man-ps4-video-game-wallpaper-preview.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:0;
+}
+.sidenav{
+    height:100%;
+	width:150px;
+	position:fixed;
+	background-color:#11132F;
+	overflow:hidden;
+	padding-top:30px;
+}
+.sidenav a{
+	padding:16px 8px 8px 18px;
+	font-size:25px;
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+.sidenav a:hover{
+	color:#91FFFF;
+}
+h1{
+	font-size:45px;
+	padding-top:100px;
+	padding-left:30%;
+	font-family:Lato;
+	color:white;
+}
+h2{
+	font-size:30px;
+	padding:50px;
+	padding-left:30%;
+	font-family:Lato;
+	color:white;
+}
+.footer{
+    padding:16px 8px 8px 18px;
+	postition:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	color:white;
+	text-align:center;
+}
